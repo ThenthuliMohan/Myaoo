@@ -6,4 +6,13 @@ default void videocall() {
 static void demo(){
 	
 }
+	static void demo(){
+	
+}
+	static void demo(){
+	
+}
+	static void demo(){
+	
+}
 }
